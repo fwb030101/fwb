@@ -1,0 +1,10 @@
+{
+"chain": "arbitrum",
+"networkName": "Arbitrum One",
+"contract": "0xF5d84413f2cd33d6d473BA9D0c665a73472d8fC7",
+"owner": "0xC086929F7086961a2Cb1c89Bbd85508C44E75782",
+"payoutWallet": "0x33e29fac281B8A8BC6965A30c5619D132FfaC86E",
+"explorer": "https://arbiscan.io/address/0xF5d84413f2cd33d6d473BA9D0c665a73472d8fC7",
+"sourceCodeVerified": true,
+"tvlFunction": "getProtocolTvlTokensAndAmounts"
+}
