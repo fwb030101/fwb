@@ -1,0 +1,10 @@
+{
+"chain": "base",
+"networkName": "Base",
+"contract": "0x199180dfbACEE5c204Db4E803A92a9D3A9Db4d1F",
+"owner": "0x7Ea47C23596013022B5D5DC5AcC4068E8dEF91E7",
+"payoutWallet": "0x33e29fac281B8A8BC6965A30c5619D132FfaC86E",
+"explorer": "https://basescan.org/address/0x199180dfbACEE5c204Db4E803A92a9D3A9Db4d1F",
+"sourceCodeVerified": true,
+"tvlFunction": "getProtocolTvlTokensAndAmounts"
+}
