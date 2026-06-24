@@ -1,0 +1,10 @@
+{
+"chain": "polygon",
+"networkName": "Polygon PoS",
+"contract": "0xd17127796D46c1588550Df783FCfE3D08ef8F6c0",
+"owner": "0x8953214b37Ce85FA90A6451beCa5790022FD49a1",
+"payoutWallet": "0x33e29fac281B8A8BC6965A30c5619D132FfaC86E",
+"explorer": "https://polygonscan.com/address/0xd17127796D46c1588550Df783FCfE3D08ef8F6c0",
+"sourceCodeVerified": true,
+"tvlFunction": "getProtocolTvlTokensAndAmounts"
+}
