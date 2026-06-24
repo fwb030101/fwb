@@ -1,0 +1,10 @@
+{
+"chain": "ethereum",
+"networkName": "Ethereum",
+"contract": "0x1Ef96B8fad9aE983E60610C4ba13536606B5c477",
+"owner": "0x17a7740458A3b0e6F396636e61554821bfD6E08C",
+"payoutWallet": "0x33e29fac281B8A8BC6965A30c5619D132FfaC86E",
+"explorer": "https://etherscan.io/address/0x1Ef96B8fad9aE983E60610C4ba13536606B5c477",
+"sourceCodeVerified": true,
+"tvlFunction": "getProtocolTvlTokensAndAmounts"
+}
