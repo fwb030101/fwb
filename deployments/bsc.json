@@ -1,0 +1,10 @@
+{
+"chain": "bsc",
+"networkName": "BNB Smart Chain",
+"contract": "0x18A021d1c89Af87AaeD266B2C58dD16855Ad3702",
+"owner": "0xc9B4D78BF3004FCC253e2f4885a6ab9B733D6D7D",
+"payoutWallet": "0x33e29fac281B8A8BC6965A30c5619D132FfaC86E",
+"explorer": "https://bscscan.com/address/0x18A021d1c89Af87AaeD266B2C58dD16855Ad3702",
+"sourceCodeVerified": true,
+"tvlFunction": "getProtocolTvlTokensAndAmounts"
+}
